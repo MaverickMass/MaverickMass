@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaverickMass
 - 👀 I’m interested in Front-End Engineer
-- 🌱 I’m currently learning Front-End Engineer, Codecademy
+- 🌱 I’m currently learning Front-End Engineer. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
